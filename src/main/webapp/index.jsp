@@ -19,6 +19,7 @@
 	<p> Testing in Docker Tut </p>
 	<P>Remove Poll </p> 
 	<p> add poll remove git hook </p> 
+	<p> Add Both </p> 
     <p class="lead">This is a very simple website template that uses bootstrap CSS framework!</p>
       <p class="lead">This website is build automatically by Jenkins!!! Yeahhhh!!!</p>
       <hr class="my-4">
