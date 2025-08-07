@@ -16,6 +16,7 @@
     <div class="jumbotron">
       <h1 class="display-4">Hello DevOps Students of RMIT Vietnam! [This is a new commit 2025]</h1>
       <p> Testing Github hook </p>
+	<p> Testing in Docker Tut </p>
       <p class="lead">This is a very simple website template that uses bootstrap CSS framework!</p>
       <p class="lead">This website is build automatically by Jenkins!!! Yeahhhh!!!</p>
       <hr class="my-4">
